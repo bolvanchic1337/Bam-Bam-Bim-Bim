@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: a2931c0099b7ace4a9bb33ead70c9406
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Catfish Warrior Run_Frame_0
+    originalName: 
+    pivot: {x: 0.3272727, y: -1.138889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 49
+      width: 55
+      height: 36
+    spriteID: aac7e174a18f0904db5b8aa3b69d43d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 49}
+  - name: Catfish Warrior Run_Frame_4
+    originalName: 
+    pivot: {x: 0.3272727, y: -1.138889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 93
+      width: 55
+      height: 36
+    spriteID: 20199790c89c48c4fa2c8f6f76502b45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 93}
+  - name: Catfish Warrior Run_Frame_5
+    originalName: 
+    pivot: {x: 0.3272727, y: -1.0789474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 55
+      height: 38
+    spriteID: 7f5d1db6c8057304da63efa61aac4424
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 51}
+  - name: Catfish Warrior Run_Frame_6
+    originalName: 
+    pivot: {x: 0.33928573, y: -1.051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 56
+      height: 39
+    spriteID: f92123e0316bb7e4a9a34e27bcfc99fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Catfish Warrior Run_Frame_7
+    originalName: 
+    pivot: {x: 0.3272727, y: -1.1081082}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 55
+      height: 37
+    spriteID: 714113de2a65ee84d867e0e08859cb33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 190}
+  - name: Catfish Warrior Run_Frame_1
+    originalName: 
+    pivot: {x: 0.3148148, y: -1.0789474}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 54
+      height: 38
+    spriteID: d044a019b21480044b2d7977b8ac9865
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: Catfish Warrior Run_Frame_2
+    originalName: 
+    pivot: {x: 0.3018868, y: -1.051282}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 97
+      width: 53
+      height: 39
+    spriteID: c83e9ece84d26594489aec5c66bfcc35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 97}
+  - name: Catfish Warrior Run_Frame_3
+    originalName: 
+    pivot: {x: 0.3148148, y: -1.1081082}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 4
+      width: 54
+      height: 37
+    spriteID: d9a6006d5592ab148bb7112b7d29d952
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1249643861
+    name: Catfish Warrior Run
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Catfish Warrior Run_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 46
+        y: 41
+        width: 55
+        height: 36
+      spriteId: aac7e174a18f0904db5b8aa3b69d43d6
+    - name: Catfish Warrior Run_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 46
+        y: 41
+        width: 55
+        height: 36
+      spriteId: 20199790c89c48c4fa2c8f6f76502b45
+    - name: Catfish Warrior Run_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 46
+        y: 41
+        width: 55
+        height: 38
+      spriteId: 7f5d1db6c8057304da63efa61aac4424
+    - name: Catfish Warrior Run_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 45
+        y: 41
+        width: 56
+        height: 39
+      spriteId: f92123e0316bb7e4a9a34e27bcfc99fc
+    - name: Catfish Warrior Run_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 46
+        y: 41
+        width: 55
+        height: 37
+      spriteId: 714113de2a65ee84d867e0e08859cb33
+    - name: Catfish Warrior Run_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 47
+        y: 41
+        width: 54
+        height: 38
+      spriteId: d044a019b21480044b2d7977b8ac9865
+    - name: Catfish Warrior Run_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 48
+        y: 41
+        width: 53
+        height: 39
+      spriteId: c83e9ece84d26594489aec5c66bfcc35
+    - name: Catfish Warrior Run_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 47
+        y: 41
+        width: 54
+        height: 37
+      spriteId: d9a6006d5592ab148bb7112b7d29d952
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}

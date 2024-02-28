@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4264d83b6bcbb934c8dc5b701f5a695e, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  ID: 1
+  icon: {fileID: -7910396156428419714, guid: ee7690c167344134fb4e9f4367758c46, type: 3}
+  Name: "AganimsBottom - Allert - \u044D\u0442\u043E\u0442 \u043F\u0440\u0435\u0434\u043C\u0435\u0442
+    \u043D\u0435\u043B\u044C\u0437\u044F \u043F\u043E\u0434\u043D\u044F\u0442\u044C!!!!!!!!"
+  value: 1
+  count: 0
+  startCount: 0

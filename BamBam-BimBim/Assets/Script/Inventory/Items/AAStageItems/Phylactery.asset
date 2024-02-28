@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4264d83b6bcbb934c8dc5b701f5a695e, type: 3}
+  m_Name: Phylactery
+  m_EditorClassIdentifier: 
+  ID: 100
+  icon: {fileID: -2599861336611830626, guid: 7b9e2b80f4eb5e5448a2c80d529fd15f, type: 3}
+  Name: "Phylactery - \u0427\u0442\u043E\u0431 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C
+    \u043B\u0438\u0447\u0430, \u043D\u0443\u0436\u043D\u043E \u0435\u0433\u043E \u0444\u0438\u043B\u0430\u043A\u0442\u0435\u0440\u0438\u0439
+    \u0431\u0440\u043E\u0441\u0438\u0442\u044C \u0432 \u041E\u0431\u0435\u043B\u0438\u0441\u043A."
+  value: 100
+  count: 0
+  startCount: 1

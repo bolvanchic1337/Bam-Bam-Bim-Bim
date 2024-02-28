@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: f4b361b4cb913a24298e4ef462407bdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -336983603775658744
+    second: Blue Effect Bullet Impact Explosion 32x32_0
+  - first:
+      213: -4980919840205170447
+    second: Blue Effect Bullet Impact Explosion 32x32_1
+  - first:
+      213: -3558904332897446010
+    second: Blue Effect Bullet Impact Explosion 32x32_2
+  - first:
+      213: -4368838086029088751
+    second: Blue Effect Bullet Impact Explosion 32x32_3
+  - first:
+      213: 2543552712483335660
+    second: Blue Effect Bullet Impact Explosion 32x32_4
+  - first:
+      213: 8074138241190039138
+    second: Blue Effect Bullet Impact Explosion 32x32_5
+  - first:
+      213: 1808684217656590900
+    second: Blue Effect Bullet Impact Explosion 32x32_6
+  - first:
+      213: -2533310696243798110
+    second: Blue Effect Bullet Impact Explosion 32x32_7
+  - first:
+      213: -7377799623500820098
+    second: Blue Effect Bullet Impact Explosion 32x32_8
+  - first:
+      213: -4224437311918727805
+    second: Blue Effect Bullet Impact Explosion 32x32_9
+  - first:
+      213: -7836930771101502348
+    second: Blue Effect Bullet Impact Explosion 32x32_10
+  - first:
+      213: 3310476305992463595
+    second: Blue Effect Bullet Impact Explosion 32x32_11
+  - first:
+      213: -6574927175839748729
+    second: Blue Effect Bullet Impact Explosion 32x32_12
+  - first:
+      213: -8191501068885211438
+    second: Blue Effect Bullet Impact Explosion 32x32_13
+  - first:
+      213: 8104542232975235512
+    second: Blue Effect Bullet Impact Explosion 32x32_14
+  - first:
+      213: -4886028999007906191
+    second: Blue Effect Bullet Impact Explosion 32x32_15
+  - first:
+      213: -6742862699089036777
+    second: Blue Effect Bullet Impact Explosion 32x32_16
+  - first:
+      213: -94116023620711942
+    second: Blue Effect Bullet Impact Explosion 32x32_17
+  - first:
+      213: 1318391941864518490
+    second: Blue Effect Bullet Impact Explosion 32x32_18
+  - first:
+      213: 1996600944339121339
+    second: Blue Effect Bullet Impact Explosion 32x32_19
+  - first:
+      213: -7651546341490462406
+    second: Blue Effect Bullet Impact Explosion 32x32_20
+  - first:
+      213: 8279475467224525709
+    second: Blue Effect Bullet Impact Explosion 32x32_21
+  - first:
+      213: -5969993308643600306
+    second: Blue Effect Bullet Impact Explosion 32x32_22
+  - first:
+      213: 1805451310398040694
+    second: Blue Effect Bullet Impact Explosion 32x32_23
+  - first:
+      213: -7154374564056388767
+    second: Blue Effect Bullet Impact Explosion 32x32_24
+  - first:
+      213: 8436303590848087311
+    second: Blue Effect Bullet Impact Explosion 32x32_25
+  - first:
+      213: -8396438989668755312
+    second: Blue Effect Bullet Impact Explosion 32x32_26
+  - first:
+      213: -7712333453458601582
+    second: Blue Effect Bullet Impact Explosion 32x32_27
+  - first:
+      213: -8626653405440263179
+    second: Blue Effect Bullet Impact Explosion 32x32_28
+  - first:
+      213: -421309912299045445
+    second: Blue Effect Bullet Impact Explosion 32x32_29
+  - first:
+      213: -5542966233312555773
+    second: Blue Effect Bullet Impact Explosion 32x32_30
+  - first:
+      213: 5582409069702837976
+    second: Blue Effect Bullet Impact Explosion 32x32_31
+  - first:
+      213: -8780241997670999225
+    second: Blue Effect Bullet Impact Explosion 32x32_32
+  - first:
+      213: -7999715860425448080
+    second: Blue Effect Bullet Impact Explosion 32x32_33
+  - first:
+      213: -5398293361449904794
+    second: Blue Effect Bullet Impact Explosion 32x32_34
+  - first:
+      213: 3526359407334711214
+    second: Blue Effect Bullet Impact Explosion 32x32_35
+  - first:
+      213: 7049520401250327119
+    second: Blue Effect Bullet Impact Explosion 32x32_36
+  - first:
+      213: 2355449196256214276
+    second: Blue Effect Bullet Impact Explosion 32x32_37
+  - first:
+      213: 7879697324468566634
+    second: Blue Effect Bullet Impact Explosion 32x32_38
+  - first:
+      213: -4901928106143958414
+    second: Blue Effect Bullet Impact Explosion 32x32_39
+  - first:
+      213: 8555345036726564035
+    second: Blue Effect Bullet Impact Explosion 32x32_40
+  - first:
+      213: -3689009833902304780
+    second: Blue Effect Bullet Impact Explosion 32x32_41
+  - first:
+      213: 8136575949458276597
+    second: Blue Effect Bullet Impact Explosion 32x32_42
+  - first:
+      213: 1966055222724280675
+    second: Blue Effect Bullet Impact Explosion 32x32_43
+  - first:
+      213: -8900752567502654482
+    second: Blue Effect Bullet Impact Explosion 32x32_44
+  - first:
+      213: -7836951623131239729
+    second: Blue Effect Bullet Impact Explosion 32x32_45
+  - first:
+      213: 1791050048618800816
+    second: Blue Effect Bullet Impact Explosion 32x32_46
+  - first:
+      213: -3590747617797591889
+    second: Blue Effect Bullet Impact Explosion 32x32_47
+  - first:
+      213: -8525782891757557369
+    second: Blue Effect Bullet Impact Explosion 32x32_48
+  - first:
+      213: 9133038174839180571
+    second: Blue Effect Bullet Impact Explosion 32x32_49
+  - first:
+      213: -3909726108957015598
+    second: Blue Effect Bullet Impact Explosion 32x32_50
+  - first:
+      213: 292480146484644578
+    second: Blue Effect Bullet Impact Explosion 32x32_51
+  - first:
+      213: -3035880683649005893
+    second: Blue Effect Bullet Impact Explosion 32x32_52
+  - first:
+      213: 2767792316973541965
+    second: Blue Effect Bullet Impact Explosion 32x32_53
+  - first:
+      213: -3610265898290892590
+    second: Blue Effect Bullet Impact Explosion 32x32_54
+  - first:
+      213: 7751475129324379417
+    second: Blue Effect Bullet Impact Explosion 32x32_55
+  - first:
+      213: -2496889231821064709
+    second: Blue Effect Bullet Impact Explosion 32x32_56
+  - first:
+      213: -2896398972873134933
+    second: Blue Effect Bullet Impact Explosion 32x32_57
+  - first:
+      213: 4327974510601216538
+    second: Blue Effect Bullet Impact Explosion 32x32_58
+  - first:
+      213: -1376587220724356484
+    second: Blue Effect Bullet Impact Explosion 32x32_59
+  - first:
+      213: -3282115379885055286
+    second: Blue Effect Bullet Impact Explosion 32x32_60
+  - first:
+      213: 684720528004849633
+    second: Blue Effect Bullet Impact Explosion 32x32_61
+  - first:
+      213: 336534440725398004
+    second: Blue Effect Bullet Impact Explosion 32x32_62
+  - first:
+      213: -4887792976809170492
+    second: Blue Effect Bullet Impact Explosion 32x32_63
+  - first:
+      213: -8236025481411737098
+    second: Blue Effect Bullet Impact Explosion 32x32_64
+  - first:
+      213: 7065401946164425744
+    second: Blue Effect Bullet Impact Explosion 32x32_65
+  - first:
+      213: -707005735011086287
+    second: Blue Effect Bullet Impact Explosion 32x32_66
+  - first:
+      213: -9171291897889750755
+    second: Blue Effect Bullet Impact Explosion 32x32_67
+  - first:
+      213: -1668206392365497921
+    second: Blue Effect Bullet Impact Explosion 32x32_68
+  - first:
+      213: 6323790862225173106
+    second: Blue Effect Bullet Impact Explosion 32x32_69
+  - first:
+      213: -2661339479436923364
+    second: Blue Effect Bullet Impact Explosion 32x32_70
+  - first:
+      213: 2602170470274175729
+    second: Blue Effect Bullet Impact Explosion 32x32_71
+  - first:
+      213: -915868010849786770
+    second: Blue Effect Bullet Impact Explosion 32x32_72
+  - first:
+      213: 2931431136040230834
+    second: Blue Effect Bullet Impact Explosion 32x32_73
+  - first:
+      213: -7157516381699616840
+    second: Blue Effect Bullet Impact Explosion 32x32_74
+  - first:
+      213: 9214997092723931187
+    second: Blue Effect Bullet Impact Explosion 32x32_75
+  - first:
+      213: 5535228671620068338
+    second: Blue Effect Bullet Impact Explosion 32x32_76
+  - first:
+      213: -1546900653597215392
+    second: Blue Effect Bullet Impact Explosion 32x32_77
+  - first:
+      213: 9004512602381011601
+    second: Blue Effect Bullet Impact Explosion 32x32_78
+  - first:
+      213: -9146253603564308022
+    second: Blue Effect Bullet Impact Explosion 32x32_79
+  - first:
+      213: -5817238619394443960
+    second: Blue Effect Bullet Impact Explosion 32x32_80
+  - first:
+      213: -3583075909769933430
+    second: Blue Effect Bullet Impact Explosion 32x32_81
+  - first:
+      213: 4229607900162154787
+    second: Blue Effect Bullet Impact Explosion 32x32_82
+  - first:
+      213: -6632930550504054708
+    second: Blue Effect Bullet Impact Explosion 32x32_83
+  - first:
+      213: 2174706779607700166
+    second: Blue Effect Bullet Impact Explosion 32x32_84
+  - first:
+      213: -2927238270053435766
+    second: Blue Effect Bullet Impact Explosion 32x32_85
+  - first:
+      213: -5301319134161771699
+    second: Blue Effect Bullet Impact Explosion 32x32_86
+  - first:
+      213: 1370152405325950094
+    second: Blue Effect Bullet Impact Explosion 32x32_87
+  - first:
+      213: -318833947933552641
+    second: Blue Effect Bullet Impact Explosion 32x32_88
+  - first:
+      213: -1232773087868133407
+    second: Blue Effect Bullet Impact Explosion 32x32_89
+  - first:
+      213: 6440199255069759792
+    second: Blue Effect Bullet Impact Explosion 32x32_90
+  - first:
+      213: 4416740327100228184
+    second: Blue Effect Bullet Impact Explosion 32x32_91
+  - first:
+      213: -1410308821218175347
+    second: Blue Effect Bullet Impact Explosion 32x32_92
+  - first:
+      213: 4289166404026892463
+    second: Blue Effect Bullet Impact Explosion 32x32_93
+  - first:
+      213: 171334896076038609
+    second: Blue Effect Bullet Impact Explosion 32x32_94
+  - first:
+      213: -5426038402935621148
+    second: Blue Effect Bullet Impact Explosion 32x32_95
+  - first:
+      213: -4057637557955577208
+    second: Blue Effect Bullet Impact Explosion 32x32_96
+  - first:
+      213: -3083088239413380407
+    second: Blue Effect Bullet Impact Explosion 32x32_97
+  - first:
+      213: 7432629240809309095
+    second: Blue Effect Bullet Impact Explosion 32x32_98
+  - first:
+      213: -7609084380433139198
+    second: Blue Effect Bullet Impact Explosion 32x32_99
+  - first:
+      213: 728475622014886196
+    second: Blue Effect Bullet Impact Explosion 32x32_100
+  - first:
+      213: 4267574320512580507
+    second: Blue Effect Bullet Impact Explosion 32x32_101
+  - first:
+      213: -7609489152946015213
+    second: Blue Effect Bullet Impact Explosion 32x32_102
+  - first:
+      213: 8777301525406550082
+    second: Blue Effect Bullet Impact Explosion 32x32_103
+  - first:
+      213: 1113184872294643569
+    second: Blue Effect Bullet Impact Explosion 32x32_104
+  - first:
+      213: 2389357314091727032
+    second: Blue Effect Bullet Impact Explosion 32x32_105
+  - first:
+      213: -4806479680205901691
+    second: Blue Effect Bullet Impact Explosion 32x32_106
+  - first:
+      213: -832527883564189675
+    second: Blue Effect Bullet Impact Explosion 32x32_107
+  - first:
+      213: -8035806448499041128
+    second: Blue Effect Bullet Impact Explosion 32x32_108
+  - first:
+      213: -6933494051304246794
+    second: Blue Effect Bullet Impact Explosion 32x32_109
+  - first:
+      213: 4176397096811493894
+    second: Blue Effect Bullet Impact Explosion 32x32_110
+  - first:
+      213: -3916408698283618737
+    second: Blue Effect Bullet Impact Explosion 32x32_111
+  - first:
+      213: -1352257717830713696
+    second: Blue Effect Bullet Impact Explosion 32x32_112
+  - first:
+      213: -6387300899076140879
+    second: Blue Effect Bullet Impact Explosion 32x32_113
+  - first:
+      213: 2158004550743136232
+    second: Blue Effect Bullet Impact Explosion 32x32_114
+  - first:
+      213: 8595302179447351710
+    second: Blue Effect Bullet Impact Explosion 32x32_115
+  - first:
+      213: 804189164347819626
+    second: Blue Effect Bullet Impact Explosion 32x32_116
+  - first:
+      213: -600249648101302389
+    second: Blue Effect Bullet Impact Explosion 32x32_117
+  - first:
+      213: -1885585068907398725
+    second: Blue Effect Bullet Impact Explosion 32x32_118
+  - first:
+      213: -3216523837135305104
+    second: Blue Effect Bullet Impact Explosion 32x32_119
+  - first:
+      213: -5412613875547727405
+    second: Blue Effect Bullet Impact Explosion 32x32_120
+  - first:
+      213: -1603476090207162416
+    second: Blue Effect Bullet Impact Explosion 32x32_121
+  - first:
+      213: 8284558317250483815
+    second: Blue Effect Bullet Impact Explosion 32x32_122
+  - first:
+      213: 3430921731008727089
+    second: Blue Effect Bullet Impact Explosion 32x32_123
+  - first:
+      213: 2093747705527974824
+    second: Blue Effect Bullet Impact Explosion 32x32_124
+  - first:
+      213: -7727091383325264161
+    second: Blue Effect Bullet Impact Explosion 32x32_125
+  - first:
+      213: 5409648266775079895
+    second: Blue Effect Bullet Impact Explosion 32x32_126
+  - first:
+      213: 4864409684757857670
+    second: Blue Effect Bullet Impact Explosion 32x32_127
+  - first:
+      213: 616024939227168787
+    second: Blue Effect Bullet Impact Explosion 32x32_128
+  - first:
+      213: 7175979826319703425
+    second: Blue Effect Bullet Impact Explosion 32x32_129
+  - first:
+      213: -5732518583096817968
+    second: Blue Effect Bullet Impact Explosion 32x32_130
+  - first:
+      213: 3587155466556165852
+    second: Blue Effect Bullet Impact Explosion 32x32_131
+  - first:
+      213: 4814128254164438478
+    second: Blue Effect Bullet Impact Explosion 32x32_132
+  - first:
+      213: 6719242233578234816
+    second: Blue Effect Bullet Impact Explosion 32x32_133
+  - first:
+      213: 810495076089042915
+    second: Blue Effect Bullet Impact Explosion 32x32_134
+  - first:
+      213: 3435385368148096248
+    second: Blue Effect Bullet Impact Explosion 32x32_135
+  - first:
+      213: -1852797830685874853
+    second: Blue Effect Bullet Impact Explosion 32x32_136
+  - first:
+      213: -6099389685258813892
+    second: Blue Effect Bullet Impact Explosion 32x32_137
+  - first:
+      213: 6460553196503879729
+    second: Blue Effect Bullet Impact Explosion 32x32_138
+  - first:
+      213: 1947633354058313190
+    second: Blue Effect Bullet Impact Explosion 32x32_139
+  - first:
+      213: 3963160294203301964
+    second: Blue Effect Bullet Impact Explosion 32x32_140
+  - first:
+      213: 2082673740469238866
+    second: Blue Effect Bullet Impact Explosion 32x32_141
+  - first:
+      213: -448976567106684657
+    second: Blue Effect Bullet Impact Explosion 32x32_142
+  - first:
+      213: -4471271058831331657
+    second: Blue Effect Bullet Impact Explosion 32x32_143
+  - first:
+      213: -4427303185792331214
+    second: Blue Effect Bullet Impact Explosion 32x32_144
+  - first:
+      213: 362175413533045516
+    second: Blue Effect Bullet Impact Explosion 32x32_145
+  - first:
+      213: 2542773243192934712
+    second: Blue Effect Bullet Impact Explosion 32x32_146
+  - first:
+      213: -4032929481202203283
+    second: Blue Effect Bullet Impact Explosion 32x32_147
+  - first:
+      213: 69652028492580827
+    second: Blue Effect Bullet Impact Explosion 32x32_148
+  - first:
+      213: 2078763442195918324
+    second: Blue Effect Bullet Impact Explosion 32x32_149
+  - first:
+      213: -5340612178674921491
+    second: Blue Effect Bullet Impact Explosion 32x32_150
+  - first:
+      213: 2754764915083573968
+    second: Blue Effect Bullet Impact Explosion 32x32_151
+  - first:
+      213: -6429306292684677954
+    second: Blue Effect Bullet Impact Explosion 32x32_152
+  - first:
+      213: 9188578031539485173
+    second: Blue Effect Bullet Impact Explosion 32x32_153
+  - first:
+      213: 5314626348322982523
+    second: Blue Effect Bullet Impact Explosion 32x32_154
+  - first:
+      213: -4274957824965401506
+    second: Blue Effect Bullet Impact Explosion 32x32_155
+  - first:
+      213: -4146294343525974096
+    second: Blue Effect Bullet Impact Explosion 32x32_156
+  - first:
+      213: -4580304902158484462
+    second: Blue Effect Bullet Impact Explosion 32x32_157
+  - first:
+      213: 5588450080665838909
+    second: Blue Effect Bullet Impact Explosion 32x32_158
+  - first:
+      213: 8180888410731631496
+    second: Blue Effect Bullet Impact Explosion 32x32_159
+  - first:
+      213: -3601098612292790251
+    second: Blue Effect Bullet Impact Explosion 32x32_160
+  - first:
+      213: -4154833115818271756
+    second: Blue Effect Bullet Impact Explosion 32x32_161
+  - first:
+      213: 1830719960561735540
+    second: Blue Effect Bullet Impact Explosion 32x32_162
+  - first:
+      213: -6414269612341958591
+    second: Blue Effect Bullet Impact Explosion 32x32_163
+  - first:
+      213: 1728143498994781218
+    second: Blue Effect Bullet Impact Explosion 32x32_164
+  - first:
+      213: 6391063638909300585
+    second: Blue Effect Bullet Impact Explosion 32x32_165
+  - first:
+      213: 3115656896594382451
+    second: Blue Effect Bullet Impact Explosion 32x32_166
+  - first:
+      213: 7978442033976875542
+    second: Blue Effect Bullet Impact Explosion 32x32_167
+  - first:
+      213: 5781650609965454806
+    second: Blue Effect Bullet Impact Explosion 32x32_168
+  - first:
+      213: 3870506942757492703
+    second: Blue Effect Bullet Impact Explosion 32x32_169
+  - first:
+      213: -5534145939502297360
+    second: Blue Effect Bullet Impact Explosion 32x32_170
+  - first:
+      213: -309977472456624102
+    second: Blue Effect Bullet Impact Explosion 32x32_171
+  - first:
+      213: 5739118679203522450
+    second: Blue Effect Bullet Impact Explosion 32x32_172
+  - first:
+      213: -8527895248567501976
+    second: Blue Effect Bullet Impact Explosion 32x32_173
+  - first:
+      213: 3536283940156006952
+    second: Blue Effect Bullet Impact Explosion 32x32_174
+  - first:
+      213: -4001946071603828533
+    second: Blue Effect Bullet Impact Explosion 32x32_175
+  - first:
+      213: 7193651512171877460
+    second: Blue Effect Bullet Impact Explosion 32x32_176
+  - first:
+      213: 6882899482080255348
+    second: Blue Effect Bullet Impact Explosion 32x32_177
+  - first:
+      213: 1047119845853141686
+    second: Blue Effect Bullet Impact Explosion 32x32_178
+  - first:
+      213: -5681649735309747346
+    second: Blue Effect Bullet Impact Explosion 32x32_179
+  - first:
+      213: 5204173186653924542
+    second: Blue Effect Bullet Impact Explosion 32x32_180
+  - first:
+      213: 3024745784668999955
+    second: Blue Effect Bullet Impact Explosion 32x32_181
+  - first:
+      213: -5157743740445374628
+    second: Blue Effect Bullet Impact Explosion 32x32_182
+  - first:
+      213: 4661152825053496523
+    second: Blue Effect Bullet Impact Explosion 32x32_183
+  - first:
+      213: 1704202090093968904
+    second: Blue Effect Bullet Impact Explosion 32x32_184
+  - first:
+      213: 4816285730059091668
+    second: Blue Effect Bullet Impact Explosion 32x32_185
+  - first:
+      213: 8154091619527581995
+    second: Blue Effect Bullet Impact Explosion 32x32_186
+  - first:
+      213: -5250532897752441321
+    second: Blue Effect Bullet Impact Explosion 32x32_187
+  - first:
+      213: 5504250699663204365
+    second: Blue Effect Bullet Impact Explosion 32x32_188
+  - first:
+      213: 3101113459112952172
+    second: Blue Effect Bullet Impact Explosion 32x32_189
+  - first:
+      213: -7495508870548029078
+    second: Blue Effect Bullet Impact Explosion 32x32_190
+  - first:
+      213: 184047518449845198
+    second: Blue Effect Bullet Impact Explosion 32x32_191
+  - first:
+      213: 1494671496413275305
+    second: Blue Effect Bullet Impact Explosion 32x32_192
+  - first:
+      213: -5353627114197159527
+    second: Blue Effect Bullet Impact Explosion 32x32_193
+  - first:
+      213: 8615441171044593169
+    second: Blue Effect Bullet Impact Explosion 32x32_194
+  - first:
+      213: 5627595903650280682
+    second: Blue Effect Bullet Impact Explosion 32x32_195
+  - first:
+      213: -726960679219873231
+    second: Blue Effect Bullet Impact Explosion 32x32_196
+  - first:
+      213: -2740302231898068084
+    second: Blue Effect Bullet Impact Explosion 32x32_197
+  - first:
+      213: -2403376064225714145
+    second: Blue Effect Bullet Impact Explosion 32x32_198
+  - first:
+      213: 7715644972081920226
+    second: Blue Effect Bullet Impact Explosion 32x32_199
+  - first:
+      213: 7723867305184596486
+    second: Blue Effect Bullet Impact Explosion 32x32_200
+  - first:
+      213: -5323154101009997606
+    second: Blue Effect Bullet Impact Explosion 32x32_201
+  - first:
+      213: -8191152634901248581
+    second: Blue Effect Bullet Impact Explosion 32x32_202
+  - first:
+      213: -1388401823428420386
+    second: Blue Effect Bullet Impact Explosion 32x32_203
+  - first:
+      213: 6973907507830009047
+    second: Blue Effect Bullet Impact Explosion 32x32_204
+  - first:
+      213: -421655904158441128
+    second: Blue Effect Bullet Impact Explosion 32x32_205
+  - first:
+      213: 7169966895520767781
+    second: Blue Effect Bullet Impact Explosion 32x32_206
+  - first:
+      213: 7155074741759927192
+    second: Blue Effect Bullet Impact Explosion 32x32_207
+  - first:
+      213: -8851295171192077074
+    second: Blue Effect Bullet Impact Explosion 32x32_208
+  - first:
+      213: -6607389083210281652
+    second: Blue Effect Bullet Impact Explosion 32x32_209
+  - first:
+      213: -5408708905944366526
+    second: Blue Effect Bullet Impact Explosion 32x32_210
+  - first:
+      213: 6433686366378673208
+    second: Blue Effect Bullet Impact Explosion 32x32_211
+  - first:
+      213: -673095649209992205
+    second: Blue Effect Bullet Impact Explosion 32x32_212
+  - first:
+      213: -4525180114780301267
+    second: Blue Effect Bullet Impact Explosion 32x32_213
+  - first:
+      213: 597207777036522564
+    second: Blue Effect Bullet Impact Explosion 32x32_214
+  - first:
+      213: -973236077685629790
+    second: Blue Effect Bullet Impact Explosion 32x32_215
+  - first:
+      213: 4607111673100568357
+    second: Blue Effect Bullet Impact Explosion 32x32_216
+  - first:
+      213: -7179995072751431537
+    second: Blue Effect Bullet Impact Explosion 32x32_217
+  - first:
+      213: -507952717127191783
+    second: Blue Effect Bullet Impact Explosion 32x32_218
+  - first:
+      213: 8056409403607083651
+    second: Blue Effect Bullet Impact Explosion 32x32_219
+  - first:
+      213: -4789039986645074032
+    second: Blue Effect Bullet Impact Explosion 32x32_220
+  - first:
+      213: 2455071669395741021
+    second: Blue Effect Bullet Impact Explosion 32x32_221
+  - first:
+      213: -513541562209172635
+    second: Blue Effect Bullet Impact Explosion 32x32_222
+  - first:
+      213: 8151915261420101925
+    second: Blue Effect Bullet Impact Explosion 32x32_223
+  - first:
+      213: 9036436268286345041
+    second: Blue Effect Bullet Impact Explosion 32x32_224
+  - first:
+      213: 963679401710648735
+    second: Blue Effect Bullet Impact Explosion 32x32_225
+  - first:
+      213: -4179521807221168201
+    second: Blue Effect Bullet Impact Explosion 32x32_226
+  - first:
+      213: 2221245057815068620
+    second: Blue Effect Bullet Impact Explosion 32x32_227
+  - first:
+      213: -8205035605059638403
+    second: Blue Effect Bullet Impact Explosion 32x32_228
+  - first:
+      213: 1257351395563844470
+    second: Blue Effect Bullet Impact Explosion 32x32_229
+  - first:
+      213: -4839079297915468343
+    second: Blue Effect Bullet Impact Explosion 32x32_230
+  - first:
+      213: -740891916213484974
+    second: Blue Effect Bullet Impact Explosion 32x32_231
+  - first:
+      213: 1749385374214099453
+    second: Blue Effect Bullet Impact Explosion 32x32_232
+  - first:
+      213: 9063178088577806864
+    second: Blue Effect Bullet Impact Explosion 32x32_233
+  - first:
+      213: 3288638025940376845
+    second: Blue Effect Bullet Impact Explosion 32x32_234
+  - first:
+      213: -8180197570830960287
+    second: Blue Effect Bullet Impact Explosion 32x32_235
+  - first:
+      213: 1337520761581829016
+    second: Blue Effect Bullet Impact Explosion 32x32_236
+  - first:
+      213: -117221149867343247
+    second: Blue Effect Bullet Impact Explosion 32x32_237
+  - first:
+      213: 3918925771893419354
+    second: Blue Effect Bullet Impact Explosion 32x32_238
+  - first:
+      213: -7604483664304654854
+    second: Blue Effect Bullet Impact Explosion 32x32_239
+  - first:
+      213: 1114201851073555214
+    second: Blue Effect Bullet Impact Explosion 32x32_240
+  - first:
+      213: 261496636129089317
+    second: Blue Effect Bullet Impact Explosion 32x32_241
+  - first:
+      213: -3485267231444478599
+    second: Blue Effect Bullet Impact Explosion 32x32_242
+  - first:
+      213: 5472081300111161789
+    second: Blue Effect Bullet Impact Explosion 32x32_243
+  - first:
+      213: 3612367852895596905
+    second: Blue Effect Bullet Impact Explosion 32x32_244
+  - first:
+      213: -1397706840565145964
+    second: Blue Effect Bullet Impact Explosion 32x32_245
+  - first:
+      213: -7627378662281921513
+    second: Blue Effect Bullet Impact Explosion 32x32_246
+  - first:
+      213: -3011171697457910599
+    second: Blue Effect Bullet Impact Explosion 32x32_247
+  - first:
+      213: 1250451686302653834
+    second: Blue Effect Bullet Impact Explosion 32x32_248
+  - first:
+      213: -8039381431706607818
+    second: Blue Effect Bullet Impact Explosion 32x32_249
+  - first:
+      213: -6755721148691784801
+    second: Blue Effect Bullet Impact Explosion 32x32_250
+  - first:
+      213: 3204198568390442693
+    second: Blue Effect Bullet Impact Explosion 32x32_251
+  - first:
+      213: -3520066745647281344
+    second: Blue Effect Bullet Impact Explosion 32x32_252
+  - first:
+      213: -5595874623181537418
+    second: Blue Effect Bullet Impact Explosion 32x32_253
+  - first:
+      213: -2357942828023100525
+    second: Blue Effect Bullet Impact Explosion 32x32_254
+  - first:
+      213: 5969910765915649925
+    second: Blue Effect Bullet Impact Explosion 32x32_255
+  - first:
+      213: -3292552360896360219
+    second: Blue Effect Bullet Impact Explosion 32x32_256
+  - first:
+      213: 6048926882563773505
+    second: Blue Effect Bullet Impact Explosion 32x32_257
+  - first:
+      213: -5586611322352460709
+    second: Blue Effect Bullet Impact Explosion 32x32_258
+  - first:
+      213: -4580409111396403335
+    second: Blue Effect Bullet Impact Explosion 32x32_259
+  - first:
+      213: -1560696215059957580
+    second: Blue Effect Bullet Impact Explosion 32x32_260
+  - first:
+      213: 8560604097550345408
+    second: Blue Effect Bullet Impact Explosion 32x32_261
+  - first:
+      213: -712037309548593386
+    second: Blue Effect Bullet Impact Explosion 32x32_262
+  - first:
+      213: -1897798030778559726
+    second: Blue Effect Bullet Impact Explosion 32x32_263
+  - first:
+      213: -5449559131259878598
+    second: Blue Effect Bullet Impact Explosion 32x32_264
+  - first:
+      213: 623645456703944049
+    second: Blue Effect Bullet Impact Explosion 32x32_265
+  - first:
+      213: -7123257676640122231
+    second: Blue Effect Bullet Impact Explosion 32x32_266
+  - first:
+      213: 2525423645734245793
+    second: Blue Effect Bullet Impact Explosion 32x32_267
+  - first:
+      213: 5558351841485168786
+    second: Blue Effect Bullet Impact Explosion 32x32_268
+  - first:
+      213: -3008171800836722809
+    second: Blue Effect Bullet Impact Explosion 32x32_269
+  - first:
+      213: 4091051521426893547
+    second: Blue Effect Bullet Impact Explosion 32x32_270
+  - first:
+      213: 3939280590827582499
+    second: Blue Effect Bullet Impact Explosion 32x32_271
+  - first:
+      213: 215645032992914358
+    second: Blue Effect Bullet Impact Explosion 32x32_272
+  - first:
+      213: 2789602979203559886
+    second: Blue Effect Bullet Impact Explosion 32x32_273
+  - first:
+      213: 1124916995746424939
+    second: Blue Effect Bullet Impact Explosion 32x32_274
+  - first:
+      213: -1306991493656505653
+    second: Blue Effect Bullet Impact Explosion 32x32_275
+  - first:
+      213: 307743684864493295
+    second: Blue Effect Bullet Impact Explosion 32x32_276
+  - first:
+      213: -761373594513105386
+    second: Blue Effect Bullet Impact Explosion 32x32_277
+  - first:
+      213: 7617753039876978493
+    second: Blue Effect Bullet Impact Explosion 32x32_278
+  - first:
+      213: 8761008038270212553
+    second: Blue Effect Bullet Impact Explosion 32x32_279
+  - first:
+      213: 316660986850448717
+    second: Blue Effect Bullet Impact Explosion 32x32_280
+  - first:
+      213: 3597827136739178726
+    second: Blue Effect Bullet Impact Explosion 32x32_281
+  - first:
+      213: -3439785883053863365
+    second: Blue Effect Bullet Impact Explosion 32x32_282
+  - first:
+      213: 3271876561699828613
+    second: Blue Effect Bullet Impact Explosion 32x32_283
+  - first:
+      213: 8705020093850358034
+    second: Blue Effect Bullet Impact Explosion 32x32_284
+  - first:
+      213: -7870393080071756255
+    second: Blue Effect Bullet Impact Explosion 32x32_285
+  - first:
+      213: 4614395185163063353
+    second: Blue Effect Bullet Impact Explosion 32x32_286
+  - first:
+      213: 4012717181622644671
+    second: Blue Effect Bullet Impact Explosion 32x32_287
+  - first:
+      213: 6037460752211074453
+    second: Blue Effect Bullet Impact Explosion 32x32_288
+  - first:
+      213: -7011546247277326045
+    second: Blue Effect Bullet Impact Explosion 32x32_289
+  - first:
+      213: -1690314218184071425
+    second: Blue Effect Bullet Impact Explosion 32x32_290
+  - first:
+      213: -3627867504275200037
+    second: Blue Effect Bullet Impact Explosion 32x32_291
+  - first:
+      213: 6662441419679671113
+    second: Blue Effect Bullet Impact Explosion 32x32_292
+  - first:
+      213: 638283573760598038
+    second: Blue Effect Bullet Impact Explosion 32x32_293
+  - first:
+      213: -4615522865053181507
+    second: Blue Effect Bullet Impact Explosion 32x32_294
+  - first:
+      213: -9089863756715006665
+    second: Blue Effect Bullet Impact Explosion 32x32_295
+  - first:
+      213: 1215283260907633218
+    second: Blue Effect Bullet Impact Explosion 32x32_296
+  - first:
+      213: 6113992362216713628
+    second: Blue Effect Bullet Impact Explosion 32x32_297
+  - first:
+      213: 284086754990144061
+    second: Blue Effect Bullet Impact Explosion 32x32_298
+  - first:
+      213: -5718534027735481390
+    second: Blue Effect Bullet Impact Explosion 32x32_299
+  - first:
+      213: -6421282168305787050
+    second: Blue Effect Bullet Impact Explosion 32x32_300
+  - first:
+      213: -8558372784006123729
+    second: Blue Effect Bullet Impact Explosion 32x32_301
+  - first:
+      213: -2130705452814676265
+    second: Blue Effect Bullet Impact Explosion 32x32_302
+  - first:
+      213: 7893948728204466070
+    second: Blue Effect Bullet Impact Explosion 32x32_303
+  - first:
+      213: -8514834574672974737
+    second: Blue Effect Bullet Impact Explosion 32x32_304
+  - first:
+      213: 7635840221139452731
+    second: Blue Effect Bullet Impact Explosion 32x32_305
+  - first:
+      213: 6477561840622288444
+    second: Blue Effect Bullet Impact Explosion 32x32_306
+  - first:
+      213: -309651127868043267
+    second: Blue Effect Bullet Impact Explosion 32x32_307
+  - first:
+      213: -2707968591379211752
+    second: Blue Effect Bullet Impact Explosion 32x32_308
+  - first:
+      213: -2577956585559310697
+    second: Blue Effect Bullet Impact Explosion 32x32_309
+  - first:
+      213: -6620064255111601894
+    second: Blue Effect Bullet Impact Explosion 32x32_310
+  - first:
+      213: 4697573584395270323
+    second: Blue Effect Bullet Impact Explosion 32x32_311
+  - first:
+      213: -5156217740848976445
+    second: Blue Effect Bullet Impact Explosion 32x32_312
+  - first:
+      213: -8440522902915481367
+    second: Blue Effect Bullet Impact Explosion 32x32_313
+  - first:
+      213: -3140210668889190397
+    second: Blue Effect Bullet Impact Explosion 32x32_314
+  - first:
+      213: 7222625647124023118
+    second: Blue Effect Bullet Impact Explosion 32x32_315
+  - first:
+      213: 7099572405871760513
+    second: Blue Effect Bullet Impact Explosion 32x32_316
+  - first:
+      213: 2115010964876008081
+    second: Blue Effect Bullet Impact Explosion 32x32_317
+  - first:
+      213: 528312516016501496
+    second: Blue Effect Bullet Impact Explosion 32x32_318
+  - first:
+      213: 2396041570059922853
+    second: Blue Effect Bullet Impact Explosion 32x32_319
+  - first:
+      213: 8617865228299631708
+    second: Blue Effect Bullet Impact Explosion 32x32_320
+  - first:
+      213: -6788521274627465310
+    second: Blue Effect Bullet Impact Explosion 32x32_321
+  - first:
+      213: 8006528393187977581
+    second: Blue Effect Bullet Impact Explosion 32x32_322
+  - first:
+      213: -9110470153202840488
+    second: Blue Effect Bullet Impact Explosion 32x32_323
+  - first:
+      213: -3368565166123908617
+    second: Blue Effect Bullet Impact Explosion 32x32_324
+  - first:
+      213: -2160408400278535847
+    second: Blue Effect Bullet Impact Explosion 32x32_325
+  - first:
+      213: 8785215033476387100
+    second: Blue Effect Bullet Impact Explosion 32x32_326
+  - first:
+      213: 8580309089930199561
+    second: Blue Effect Bullet Impact Explosion 32x32_327
+  - first:
+      213: -3289755783510033955
+    second: Blue Effect Bullet Impact Explosion 32x32_328
+  - first:
+      213: -1613177111145428433
+    second: Blue Effect Bullet Impact Explosion 32x32_329
+  - first:
+      213: 7310743136533167306
+    second: Blue Effect Bullet Impact Explosion 32x32_330
+  - first:
+      213: -9180373898378096652
+    second: Blue Effect Bullet Impact Explosion 32x32_331
+  - first:
+      213: 7752365245901385178
+    second: Blue Effect Bullet Impact Explosion 32x32_332
+  - first:
+      213: 7621686144626148173
+    second: Blue Effect Bullet Impact Explosion 32x32_333
+  - first:
+      213: 7251687311493350658
+    second: Blue Effect Bullet Impact Explosion 32x32_334
+  - first:
+      213: 109639939796676800
+    second: Blue Effect Bullet Impact Explosion 32x32_335
+  - first:
+      213: 4143176034488365988
+    second: Blue Effect Bullet Impact Explosion 32x32_336
+  - first:
+      213: -8877829504444091094
+    second: Blue Effect Bullet Impact Explosion 32x32_337
+  - first:
+      213: -8716466132152699461
+    second: Blue Effect Bullet Impact Explosion 32x32_338
+  - first:
+      213: 4317309925391253841
+    second: Blue Effect Bullet Impact Explosion 32x32_339
+  - first:
+      213: 8094732395014559238
+    second: Blue Effect Bullet Impact Explosion 32x32_340
+  - first:
+      213: -4872299983226016449
+    second: Blue Effect Bullet Impact Explosion 32x32_341
+  - first:
+      213: 8512958850691184603
+    second: Blue Effect Bullet Impact Explosion 32x32_342
+  - first:
+      213: 6785994494659113556
+    second: Blue Effect Bullet Impact Explosion 32x32_343
+  - first:
+      213: 4447510489103321736
+    second: Blue Effect Bullet Impact Explosion 32x32_344
+  - first:
+      213: -3531182809308309582
+    second: Blue Effect Bullet Impact Explosion 32x32_345
+  - first:
+      213: -7259513839004574388
+    second: Blue Effect Bullet Impact Explosion 32x32_346
+  - first:
+      213: 8590444080203739721
+    second: Blue Effect Bullet Impact Explosion 32x32_347
+  - first:
+      213: -2898939951601765606
+    second: Blue Effect Bullet Impact Explosion 32x32_348
+  - first:
+      213: -1544915541839158372
+    second: Blue Effect Bullet Impact Explosion 32x32_349
+  - first:
+      213: -6889205221590248043
+    second: Blue Effect Bullet Impact Explosion 32x32_350
+  - first:
+      213: 8426274116544803388
+    second: Blue Effect Bullet Impact Explosion 32x32_351
+  - first:
+      213: -1635245963895761576
+    second: Blue Effect Bullet Impact Explosion 32x32_352
+  - first:
+      213: -8211983423590695788
+    second: Blue Effect Bullet Impact Explosion 32x32_353
+  - first:
+      213: 5721213511273951672
+    second: Blue Effect Bullet Impact Explosion 32x32_354
+  - first:
+      213: 6053133010934131368
+    second: Blue Effect Bullet Impact Explosion 32x32_355
+  - first:
+      213: -6953850156413803833
+    second: Blue Effect Bullet Impact Explosion 32x32_356
+  - first:
+      213: 2383094304754748875
+    second: Blue Effect Bullet Impact Explosion 32x32_357
+  - first:
+      213: 3486235185470378352
+    second: Blue Effect Bullet Impact Explosion 32x32_358
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Effect Bullet Impact Explosion 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 294
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80522d1a23bc25bf0800000000000000
+      internalID: -336983603775658744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Effect Bullet Impact Explosion 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7098a54a8db2ca4297f4ec6dda9d1fe
+      internalID: -4980919840205170447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Effect Bullet Impact Explosion 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7c33a9993b6f448a2aff3974b01127
+      internalID: -3558904332897446010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Effect Bullet Impact Explosion 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 294
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88141067c3c7ef1469a493f033995f28
+      internalID: -4368838086029088751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Effect Bullet Impact Explosion 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd74210e60f404c88d2fed61547839
+      internalID: 519573487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 031adf216aa9a6444823fb015e66a99a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue Effect Bullet Impact Explosion 32x32_8: 519573487
+      Blue Effect Bullet Impact Explosion 32x32_7: 278719324
+      Blue Effect Bullet Impact Explosion 32x32_6: -2006781851
+      Blue Effect Bullet Impact Explosion 32x32_1: -4980919840205170447
+      Blue Effect Bullet Impact Explosion 32x32_0: -336983603775658744
+      Blue Effect Bullet Impact Explosion 32x32_2: -3558904332897446010
+      Blue Effect Bullet Impact Explosion 32x32_5: -1605240770
+      Blue Effect Bullet Impact Explosion 32x32_3: -4368838086029088751
+      Blue Effect Bullet Impact Explosion 32x32_4: 702774886
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

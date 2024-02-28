@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4264d83b6bcbb934c8dc5b701f5a695e, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  ID: 4
+  icon: {fileID: 3622293899608871697, guid: c1249e54982aa4c4fa5a07fc9c6282d2, type: 3}
+  Name: "DagonSimulation - \u041C\u0430\u0433. \u0443\u0440\u043E\u043D \u0438 hp
+    = \u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430 intelligence +3 - \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0439
+    4."
+  value: 4
+  count: 4
+  startCount: 4
