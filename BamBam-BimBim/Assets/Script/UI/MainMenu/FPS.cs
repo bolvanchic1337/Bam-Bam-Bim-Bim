@@ -1,18 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-
 public class FPS : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public static FPS instance;
+    private void Awake()
     {
-        
+        instance = this;
     }
-
-    // Update is called once per frame
+    public int fps = 60;
     void Update()
     {
-        
+        if (Application.targetFrameRate != fps)
+            Application.targetFrameRate = fps;
     }
 }

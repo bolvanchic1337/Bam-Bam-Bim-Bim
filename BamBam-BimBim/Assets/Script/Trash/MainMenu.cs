@@ -65,4 +65,8 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("StoryBalance");
     }
+    public void Test(string a)
+    {
+        SceneManager.LoadScene(a);
+    }
 }

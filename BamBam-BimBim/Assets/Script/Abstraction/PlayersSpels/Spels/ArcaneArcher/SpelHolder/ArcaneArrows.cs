@@ -53,7 +53,7 @@ public class ArcaneArrows : Spell
         active = !active;
         if ( active )
         {
-            image.GetComponent<Image>().color = new Color32(255, 0, 225, 255);
+            image.GetComponent<Image>().color = new Color32(255, 0, 255, 255);
         }
         else
         {

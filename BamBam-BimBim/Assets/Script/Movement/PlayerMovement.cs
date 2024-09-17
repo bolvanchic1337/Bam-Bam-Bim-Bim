@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour {
     public float runSpeed = 40f;
 	public KeyCode upArrow = KeyCode.UpArrow;
 	float horizontalMove = 0f;
-	bool jump = false;
+	public bool jump = false;
 	public Animator animator;
 	void Update () 
 	{

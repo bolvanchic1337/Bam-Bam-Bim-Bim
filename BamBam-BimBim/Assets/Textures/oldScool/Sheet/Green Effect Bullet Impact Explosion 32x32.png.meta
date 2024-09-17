@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 2d41e5795708d7d439d8569ca42d8065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3937117221114375086
+    second: Green Effect Bullet Impact Explosion 32x32_0
+  - first:
+      213: -6842410521649576554
+    second: Green Effect Bullet Impact Explosion 32x32_1
+  - first:
+      213: -3232142042035061481
+    second: Green Effect Bullet Impact Explosion 32x32_2
+  - first:
+      213: -5169673698369588653
+    second: Green Effect Bullet Impact Explosion 32x32_3
+  - first:
+      213: 8421083105256432786
+    second: Green Effect Bullet Impact Explosion 32x32_4
+  - first:
+      213: 2551013721037773727
+    second: Green Effect Bullet Impact Explosion 32x32_5
+  - first:
+      213: 4325204848097265677
+    second: Green Effect Bullet Impact Explosion 32x32_6
+  - first:
+      213: 6635085065830494624
+    second: Green Effect Bullet Impact Explosion 32x32_7
+  - first:
+      213: -6319966348672811586
+    second: Green Effect Bullet Impact Explosion 32x32_8
+  - first:
+      213: 2714831566654795969
+    second: Green Effect Bullet Impact Explosion 32x32_9
+  - first:
+      213: 997822421157953889
+    second: Green Effect Bullet Impact Explosion 32x32_10
+  - first:
+      213: -5229216232856246854
+    second: Green Effect Bullet Impact Explosion 32x32_11
+  - first:
+      213: 4101231258756081156
+    second: Green Effect Bullet Impact Explosion 32x32_12
+  - first:
+      213: -7564905964752587300
+    second: Green Effect Bullet Impact Explosion 32x32_13
+  - first:
+      213: 6062723134434260376
+    second: Green Effect Bullet Impact Explosion 32x32_14
+  - first:
+      213: -2809460555322576706
+    second: Green Effect Bullet Impact Explosion 32x32_15
+  - first:
+      213: -5716206652247170099
+    second: Green Effect Bullet Impact Explosion 32x32_16
+  - first:
+      213: -1154267619621265384
+    second: Green Effect Bullet Impact Explosion 32x32_17
+  - first:
+      213: -8887972162329886620
+    second: Green Effect Bullet Impact Explosion 32x32_18
+  - first:
+      213: -1972878501524408871
+    second: Green Effect Bullet Impact Explosion 32x32_19
+  - first:
+      213: 1668866357633571972
+    second: Green Effect Bullet Impact Explosion 32x32_20
+  - first:
+      213: -8795146157547062525
+    second: Green Effect Bullet Impact Explosion 32x32_21
+  - first:
+      213: 7027515893128209698
+    second: Green Effect Bullet Impact Explosion 32x32_22
+  - first:
+      213: -1334832263116204184
+    second: Green Effect Bullet Impact Explosion 32x32_23
+  - first:
+      213: 7364277835843863391
+    second: Green Effect Bullet Impact Explosion 32x32_24
+  - first:
+      213: 6055104294897733073
+    second: Green Effect Bullet Impact Explosion 32x32_25
+  - first:
+      213: 6360050386662533236
+    second: Green Effect Bullet Impact Explosion 32x32_26
+  - first:
+      213: -5876004461930029507
+    second: Green Effect Bullet Impact Explosion 32x32_27
+  - first:
+      213: -6285174347023252685
+    second: Green Effect Bullet Impact Explosion 32x32_28
+  - first:
+      213: 3254553059648710682
+    second: Green Effect Bullet Impact Explosion 32x32_29
+  - first:
+      213: -7729822443381533889
+    second: Green Effect Bullet Impact Explosion 32x32_30
+  - first:
+      213: 144975368367035593
+    second: Green Effect Bullet Impact Explosion 32x32_31
+  - first:
+      213: 4605894109996625526
+    second: Green Effect Bullet Impact Explosion 32x32_32
+  - first:
+      213: -4766492329444294714
+    second: Green Effect Bullet Impact Explosion 32x32_33
+  - first:
+      213: 1064181711741890006
+    second: Green Effect Bullet Impact Explosion 32x32_34
+  - first:
+      213: 1446140379670622503
+    second: Green Effect Bullet Impact Explosion 32x32_35
+  - first:
+      213: -6043604554944295676
+    second: Green Effect Bullet Impact Explosion 32x32_36
+  - first:
+      213: -9095599534500905294
+    second: Green Effect Bullet Impact Explosion 32x32_37
+  - first:
+      213: 5314914785661980499
+    second: Green Effect Bullet Impact Explosion 32x32_38
+  - first:
+      213: 9075302240388440892
+    second: Green Effect Bullet Impact Explosion 32x32_39
+  - first:
+      213: -8931317187787920352
+    second: Green Effect Bullet Impact Explosion 32x32_40
+  - first:
+      213: 7249056870492286428
+    second: Green Effect Bullet Impact Explosion 32x32_41
+  - first:
+      213: -6391766849799511696
+    second: Green Effect Bullet Impact Explosion 32x32_42
+  - first:
+      213: 3839166871644425171
+    second: Green Effect Bullet Impact Explosion 32x32_43
+  - first:
+      213: -3927014977159598910
+    second: Green Effect Bullet Impact Explosion 32x32_44
+  - first:
+      213: 419327157847956501
+    second: Green Effect Bullet Impact Explosion 32x32_45
+  - first:
+      213: 7324394207465926779
+    second: Green Effect Bullet Impact Explosion 32x32_46
+  - first:
+      213: 3365072090581027881
+    second: Green Effect Bullet Impact Explosion 32x32_47
+  - first:
+      213: 7052363770457502369
+    second: Green Effect Bullet Impact Explosion 32x32_48
+  - first:
+      213: 2418820292458561771
+    second: Green Effect Bullet Impact Explosion 32x32_49
+  - first:
+      213: -7729169223661725912
+    second: Green Effect Bullet Impact Explosion 32x32_50
+  - first:
+      213: 7515962910946887675
+    second: Green Effect Bullet Impact Explosion 32x32_51
+  - first:
+      213: -3692514108795025683
+    second: Green Effect Bullet Impact Explosion 32x32_52
+  - first:
+      213: -2383251463877620159
+    second: Green Effect Bullet Impact Explosion 32x32_53
+  - first:
+      213: 4666563329718787398
+    second: Green Effect Bullet Impact Explosion 32x32_54
+  - first:
+      213: -8633028830375808960
+    second: Green Effect Bullet Impact Explosion 32x32_55
+  - first:
+      213: -7385863149060382897
+    second: Green Effect Bullet Impact Explosion 32x32_56
+  - first:
+      213: -919316755589406680
+    second: Green Effect Bullet Impact Explosion 32x32_57
+  - first:
+      213: 6429228355705891209
+    second: Green Effect Bullet Impact Explosion 32x32_58
+  - first:
+      213: -3827956593540351508
+    second: Green Effect Bullet Impact Explosion 32x32_59
+  - first:
+      213: 23044670668742328
+    second: Green Effect Bullet Impact Explosion 32x32_60
+  - first:
+      213: -8878153295204124253
+    second: Green Effect Bullet Impact Explosion 32x32_61
+  - first:
+      213: 3412156141447530871
+    second: Green Effect Bullet Impact Explosion 32x32_62
+  - first:
+      213: -659873080531595511
+    second: Green Effect Bullet Impact Explosion 32x32_63
+  - first:
+      213: -2777778189320499765
+    second: Green Effect Bullet Impact Explosion 32x32_64
+  - first:
+      213: -6877488286279014928
+    second: Green Effect Bullet Impact Explosion 32x32_65
+  - first:
+      213: -5826115948736858658
+    second: Green Effect Bullet Impact Explosion 32x32_66
+  - first:
+      213: 4186590716397020285
+    second: Green Effect Bullet Impact Explosion 32x32_67
+  - first:
+      213: -7337444677507301130
+    second: Green Effect Bullet Impact Explosion 32x32_68
+  - first:
+      213: 3557744202128613487
+    second: Green Effect Bullet Impact Explosion 32x32_69
+  - first:
+      213: -6721665939887182613
+    second: Green Effect Bullet Impact Explosion 32x32_70
+  - first:
+      213: -1020675083226401739
+    second: Green Effect Bullet Impact Explosion 32x32_71
+  - first:
+      213: 3154038276794960766
+    second: Green Effect Bullet Impact Explosion 32x32_72
+  - first:
+      213: 2565694342608810426
+    second: Green Effect Bullet Impact Explosion 32x32_73
+  - first:
+      213: 3617306113982200982
+    second: Green Effect Bullet Impact Explosion 32x32_74
+  - first:
+      213: 89071891222857637
+    second: Green Effect Bullet Impact Explosion 32x32_75
+  - first:
+      213: -2231102126461383448
+    second: Green Effect Bullet Impact Explosion 32x32_76
+  - first:
+      213: 5282436750090273919
+    second: Green Effect Bullet Impact Explosion 32x32_77
+  - first:
+      213: 1234490466809495612
+    second: Green Effect Bullet Impact Explosion 32x32_78
+  - first:
+      213: -665950598607599523
+    second: Green Effect Bullet Impact Explosion 32x32_79
+  - first:
+      213: -6005037840815367566
+    second: Green Effect Bullet Impact Explosion 32x32_80
+  - first:
+      213: -4453584486330915247
+    second: Green Effect Bullet Impact Explosion 32x32_81
+  - first:
+      213: 4003709766727559445
+    second: Green Effect Bullet Impact Explosion 32x32_82
+  - first:
+      213: -5700642826973733274
+    second: Green Effect Bullet Impact Explosion 32x32_83
+  - first:
+      213: 3539151095732272813
+    second: Green Effect Bullet Impact Explosion 32x32_84
+  - first:
+      213: 8986138160427379647
+    second: Green Effect Bullet Impact Explosion 32x32_85
+  - first:
+      213: 1716084243996566960
+    second: Green Effect Bullet Impact Explosion 32x32_86
+  - first:
+      213: -4021910105845546967
+    second: Green Effect Bullet Impact Explosion 32x32_87
+  - first:
+      213: -2077209648302478509
+    second: Green Effect Bullet Impact Explosion 32x32_88
+  - first:
+      213: 7965967292016671309
+    second: Green Effect Bullet Impact Explosion 32x32_89
+  - first:
+      213: -3093174055427234093
+    second: Green Effect Bullet Impact Explosion 32x32_90
+  - first:
+      213: 7407258722497649643
+    second: Green Effect Bullet Impact Explosion 32x32_91
+  - first:
+      213: 6051551621777170895
+    second: Green Effect Bullet Impact Explosion 32x32_92
+  - first:
+      213: -6826788529284116659
+    second: Green Effect Bullet Impact Explosion 32x32_93
+  - first:
+      213: -8976460706412362033
+    second: Green Effect Bullet Impact Explosion 32x32_94
+  - first:
+      213: 1313945378868311730
+    second: Green Effect Bullet Impact Explosion 32x32_95
+  - first:
+      213: 5858541473039376642
+    second: Green Effect Bullet Impact Explosion 32x32_96
+  - first:
+      213: -2027629544411759478
+    second: Green Effect Bullet Impact Explosion 32x32_97
+  - first:
+      213: 7710624394770312821
+    second: Green Effect Bullet Impact Explosion 32x32_98
+  - first:
+      213: 1064406295336694422
+    second: Green Effect Bullet Impact Explosion 32x32_99
+  - first:
+      213: 6235480989015887078
+    second: Green Effect Bullet Impact Explosion 32x32_100
+  - first:
+      213: -2330950665259008077
+    second: Green Effect Bullet Impact Explosion 32x32_101
+  - first:
+      213: 3429106644890386705
+    second: Green Effect Bullet Impact Explosion 32x32_102
+  - first:
+      213: 1183623344656941857
+    second: Green Effect Bullet Impact Explosion 32x32_103
+  - first:
+      213: 7621602871760920226
+    second: Green Effect Bullet Impact Explosion 32x32_104
+  - first:
+      213: -6678351902553529496
+    second: Green Effect Bullet Impact Explosion 32x32_105
+  - first:
+      213: 2542018084330521870
+    second: Green Effect Bullet Impact Explosion 32x32_106
+  - first:
+      213: -3633230184573325499
+    second: Green Effect Bullet Impact Explosion 32x32_107
+  - first:
+      213: -2053176395834220172
+    second: Green Effect Bullet Impact Explosion 32x32_108
+  - first:
+      213: -6589294915177270942
+    second: Green Effect Bullet Impact Explosion 32x32_109
+  - first:
+      213: 7108568380479895601
+    second: Green Effect Bullet Impact Explosion 32x32_110
+  - first:
+      213: 7777947736484142658
+    second: Green Effect Bullet Impact Explosion 32x32_111
+  - first:
+      213: 7093005963757397141
+    second: Green Effect Bullet Impact Explosion 32x32_112
+  - first:
+      213: 4226138316070612622
+    second: Green Effect Bullet Impact Explosion 32x32_113
+  - first:
+      213: -5915282515947075050
+    second: Green Effect Bullet Impact Explosion 32x32_114
+  - first:
+      213: 9012501816456726433
+    second: Green Effect Bullet Impact Explosion 32x32_115
+  - first:
+      213: -2373366942519249063
+    second: Green Effect Bullet Impact Explosion 32x32_116
+  - first:
+      213: -5912381249369684068
+    second: Green Effect Bullet Impact Explosion 32x32_117
+  - first:
+      213: 1829567019763357972
+    second: Green Effect Bullet Impact Explosion 32x32_118
+  - first:
+      213: -2959785111608287235
+    second: Green Effect Bullet Impact Explosion 32x32_119
+  - first:
+      213: -4409501534215963927
+    second: Green Effect Bullet Impact Explosion 32x32_120
+  - first:
+      213: 2544394937796008493
+    second: Green Effect Bullet Impact Explosion 32x32_121
+  - first:
+      213: -3240765334811740005
+    second: Green Effect Bullet Impact Explosion 32x32_122
+  - first:
+      213: 1754446617849191664
+    second: Green Effect Bullet Impact Explosion 32x32_123
+  - first:
+      213: -2066535396924719065
+    second: Green Effect Bullet Impact Explosion 32x32_124
+  - first:
+      213: -6129233176217040286
+    second: Green Effect Bullet Impact Explosion 32x32_125
+  - first:
+      213: -973981552480884244
+    second: Green Effect Bullet Impact Explosion 32x32_126
+  - first:
+      213: 6365110029459004688
+    second: Green Effect Bullet Impact Explosion 32x32_127
+  - first:
+      213: -2215110353545636872
+    second: Green Effect Bullet Impact Explosion 32x32_128
+  - first:
+      213: 2809273174960862918
+    second: Green Effect Bullet Impact Explosion 32x32_129
+  - first:
+      213: -4907608719339412651
+    second: Green Effect Bullet Impact Explosion 32x32_130
+  - first:
+      213: 5978934420310662099
+    second: Green Effect Bullet Impact Explosion 32x32_131
+  - first:
+      213: -206860444535673797
+    second: Green Effect Bullet Impact Explosion 32x32_132
+  - first:
+      213: -5109144827387842216
+    second: Green Effect Bullet Impact Explosion 32x32_133
+  - first:
+      213: -1911617716737359837
+    second: Green Effect Bullet Impact Explosion 32x32_134
+  - first:
+      213: 6174914793856415791
+    second: Green Effect Bullet Impact Explosion 32x32_135
+  - first:
+      213: -1335162221530392393
+    second: Green Effect Bullet Impact Explosion 32x32_136
+  - first:
+      213: -1544787265625140453
+    second: Green Effect Bullet Impact Explosion 32x32_137
+  - first:
+      213: 6110279535433193538
+    second: Green Effect Bullet Impact Explosion 32x32_138
+  - first:
+      213: 6382459450557148109
+    second: Green Effect Bullet Impact Explosion 32x32_139
+  - first:
+      213: -2157161680163135834
+    second: Green Effect Bullet Impact Explosion 32x32_140
+  - first:
+      213: -1873280692572227014
+    second: Green Effect Bullet Impact Explosion 32x32_141
+  - first:
+      213: -3067061562346025110
+    second: Green Effect Bullet Impact Explosion 32x32_142
+  - first:
+      213: 6605727813486647077
+    second: Green Effect Bullet Impact Explosion 32x32_143
+  - first:
+      213: 8331072270787002915
+    second: Green Effect Bullet Impact Explosion 32x32_144
+  - first:
+      213: -1263037497940837290
+    second: Green Effect Bullet Impact Explosion 32x32_145
+  - first:
+      213: 7004900951886564224
+    second: Green Effect Bullet Impact Explosion 32x32_146
+  - first:
+      213: -5347920543162710048
+    second: Green Effect Bullet Impact Explosion 32x32_147
+  - first:
+      213: -7290189848894138579
+    second: Green Effect Bullet Impact Explosion 32x32_148
+  - first:
+      213: 5064213888772720662
+    second: Green Effect Bullet Impact Explosion 32x32_149
+  - first:
+      213: -8765426259557561743
+    second: Green Effect Bullet Impact Explosion 32x32_150
+  - first:
+      213: -6093778349250402818
+    second: Green Effect Bullet Impact Explosion 32x32_151
+  - first:
+      213: 924718250802112632
+    second: Green Effect Bullet Impact Explosion 32x32_152
+  - first:
+      213: -4745494216326072437
+    second: Green Effect Bullet Impact Explosion 32x32_153
+  - first:
+      213: 7533325872534714433
+    second: Green Effect Bullet Impact Explosion 32x32_154
+  - first:
+      213: 4054351253147705142
+    second: Green Effect Bullet Impact Explosion 32x32_155
+  - first:
+      213: -1735230258908921751
+    second: Green Effect Bullet Impact Explosion 32x32_156
+  - first:
+      213: 4562213728622657666
+    second: Green Effect Bullet Impact Explosion 32x32_157
+  - first:
+      213: 7155564232272867799
+    second: Green Effect Bullet Impact Explosion 32x32_158
+  - first:
+      213: 4289484461579977628
+    second: Green Effect Bullet Impact Explosion 32x32_159
+  - first:
+      213: 9194163513110792366
+    second: Green Effect Bullet Impact Explosion 32x32_160
+  - first:
+      213: -9207977648292312137
+    second: Green Effect Bullet Impact Explosion 32x32_161
+  - first:
+      213: 7551878275124183674
+    second: Green Effect Bullet Impact Explosion 32x32_162
+  - first:
+      213: -3732749675745420608
+    second: Green Effect Bullet Impact Explosion 32x32_163
+  - first:
+      213: -2746219259582346004
+    second: Green Effect Bullet Impact Explosion 32x32_164
+  - first:
+      213: 1447342351859414066
+    second: Green Effect Bullet Impact Explosion 32x32_165
+  - first:
+      213: -6761655913302893887
+    second: Green Effect Bullet Impact Explosion 32x32_166
+  - first:
+      213: 6147001623724633271
+    second: Green Effect Bullet Impact Explosion 32x32_167
+  - first:
+      213: 6019136718106891728
+    second: Green Effect Bullet Impact Explosion 32x32_168
+  - first:
+      213: -6188975617245834841
+    second: Green Effect Bullet Impact Explosion 32x32_169
+  - first:
+      213: -8808662156654968056
+    second: Green Effect Bullet Impact Explosion 32x32_170
+  - first:
+      213: -660615333431474060
+    second: Green Effect Bullet Impact Explosion 32x32_171
+  - first:
+      213: 5939950498061344845
+    second: Green Effect Bullet Impact Explosion 32x32_172
+  - first:
+      213: -1287785066681721994
+    second: Green Effect Bullet Impact Explosion 32x32_173
+  - first:
+      213: -2792856487759840281
+    second: Green Effect Bullet Impact Explosion 32x32_174
+  - first:
+      213: -2849522053534516823
+    second: Green Effect Bullet Impact Explosion 32x32_175
+  - first:
+      213: -8038659851612417828
+    second: Green Effect Bullet Impact Explosion 32x32_176
+  - first:
+      213: -6458479753040041129
+    second: Green Effect Bullet Impact Explosion 32x32_177
+  - first:
+      213: 6544453867574221805
+    second: Green Effect Bullet Impact Explosion 32x32_178
+  - first:
+      213: 3433940261600878156
+    second: Green Effect Bullet Impact Explosion 32x32_179
+  - first:
+      213: 2588488135279095992
+    second: Green Effect Bullet Impact Explosion 32x32_180
+  - first:
+      213: -7224759500592831632
+    second: Green Effect Bullet Impact Explosion 32x32_181
+  - first:
+      213: -6774584763025271558
+    second: Green Effect Bullet Impact Explosion 32x32_182
+  - first:
+      213: -1299887278513661898
+    second: Green Effect Bullet Impact Explosion 32x32_183
+  - first:
+      213: -5440213903857523043
+    second: Green Effect Bullet Impact Explosion 32x32_184
+  - first:
+      213: 4059898311133811629
+    second: Green Effect Bullet Impact Explosion 32x32_185
+  - first:
+      213: -1139656395985632530
+    second: Green Effect Bullet Impact Explosion 32x32_186
+  - first:
+      213: -2352062522458568177
+    second: Green Effect Bullet Impact Explosion 32x32_187
+  - first:
+      213: 996123734613983425
+    second: Green Effect Bullet Impact Explosion 32x32_188
+  - first:
+      213: 8778931682323130225
+    second: Green Effect Bullet Impact Explosion 32x32_189
+  - first:
+      213: -6278088262841566235
+    second: Green Effect Bullet Impact Explosion 32x32_190
+  - first:
+      213: 2381313996959610483
+    second: Green Effect Bullet Impact Explosion 32x32_191
+  - first:
+      213: 6333560096322606341
+    second: Green Effect Bullet Impact Explosion 32x32_192
+  - first:
+      213: 5327274468488337069
+    second: Green Effect Bullet Impact Explosion 32x32_193
+  - first:
+      213: -3193475596630181993
+    second: Green Effect Bullet Impact Explosion 32x32_194
+  - first:
+      213: -7845099419393795971
+    second: Green Effect Bullet Impact Explosion 32x32_195
+  - first:
+      213: -7437774567490327993
+    second: Green Effect Bullet Impact Explosion 32x32_196
+  - first:
+      213: 2942563133016466798
+    second: Green Effect Bullet Impact Explosion 32x32_197
+  - first:
+      213: -7176531199587556556
+    second: Green Effect Bullet Impact Explosion 32x32_198
+  - first:
+      213: 4661658036932368731
+    second: Green Effect Bullet Impact Explosion 32x32_199
+  - first:
+      213: -3658681383699312735
+    second: Green Effect Bullet Impact Explosion 32x32_200
+  - first:
+      213: 4582473110018733419
+    second: Green Effect Bullet Impact Explosion 32x32_201
+  - first:
+      213: 1064923738181979888
+    second: Green Effect Bullet Impact Explosion 32x32_202
+  - first:
+      213: -2711577361833705099
+    second: Green Effect Bullet Impact Explosion 32x32_203
+  - first:
+      213: -7698491238014254772
+    second: Green Effect Bullet Impact Explosion 32x32_204
+  - first:
+      213: 3253604772487803767
+    second: Green Effect Bullet Impact Explosion 32x32_205
+  - first:
+      213: -4772440582666015135
+    second: Green Effect Bullet Impact Explosion 32x32_206
+  - first:
+      213: -4315829020750347979
+    second: Green Effect Bullet Impact Explosion 32x32_207
+  - first:
+      213: -4901520915284238622
+    second: Green Effect Bullet Impact Explosion 32x32_208
+  - first:
+      213: -7494994292735419199
+    second: Green Effect Bullet Impact Explosion 32x32_209
+  - first:
+      213: 6302115970328813562
+    second: Green Effect Bullet Impact Explosion 32x32_210
+  - first:
+      213: 7768648066549133423
+    second: Green Effect Bullet Impact Explosion 32x32_211
+  - first:
+      213: 8068716642844242074
+    second: Green Effect Bullet Impact Explosion 32x32_212
+  - first:
+      213: -7189109139511352398
+    second: Green Effect Bullet Impact Explosion 32x32_213
+  - first:
+      213: -8011182710459463154
+    second: Green Effect Bullet Impact Explosion 32x32_214
+  - first:
+      213: 713110477441920450
+    second: Green Effect Bullet Impact Explosion 32x32_215
+  - first:
+      213: -3482065253631494003
+    second: Green Effect Bullet Impact Explosion 32x32_216
+  - first:
+      213: -2384726909818827333
+    second: Green Effect Bullet Impact Explosion 32x32_217
+  - first:
+      213: 4947549269713672181
+    second: Green Effect Bullet Impact Explosion 32x32_218
+  - first:
+      213: 592267884137327463
+    second: Green Effect Bullet Impact Explosion 32x32_219
+  - first:
+      213: -94683716137819930
+    second: Green Effect Bullet Impact Explosion 32x32_220
+  - first:
+      213: 3664649828576443516
+    second: Green Effect Bullet Impact Explosion 32x32_221
+  - first:
+      213: 5920667069291975375
+    second: Green Effect Bullet Impact Explosion 32x32_222
+  - first:
+      213: 5363171557999836042
+    second: Green Effect Bullet Impact Explosion 32x32_223
+  - first:
+      213: -6489817551852437525
+    second: Green Effect Bullet Impact Explosion 32x32_224
+  - first:
+      213: 267029474140418421
+    second: Green Effect Bullet Impact Explosion 32x32_225
+  - first:
+      213: 5591940563996778357
+    second: Green Effect Bullet Impact Explosion 32x32_226
+  - first:
+      213: 5868305835933704584
+    second: Green Effect Bullet Impact Explosion 32x32_227
+  - first:
+      213: -7495793560183595005
+    second: Green Effect Bullet Impact Explosion 32x32_228
+  - first:
+      213: -1150003954755003850
+    second: Green Effect Bullet Impact Explosion 32x32_229
+  - first:
+      213: 4689003476232481598
+    second: Green Effect Bullet Impact Explosion 32x32_230
+  - first:
+      213: -6802698884307572866
+    second: Green Effect Bullet Impact Explosion 32x32_231
+  - first:
+      213: -2202107854009577634
+    second: Green Effect Bullet Impact Explosion 32x32_232
+  - first:
+      213: 7240773757734124036
+    second: Green Effect Bullet Impact Explosion 32x32_233
+  - first:
+      213: 7354276750163929957
+    second: Green Effect Bullet Impact Explosion 32x32_234
+  - first:
+      213: -2529432531539747476
+    second: Green Effect Bullet Impact Explosion 32x32_235
+  - first:
+      213: -2961187931272386565
+    second: Green Effect Bullet Impact Explosion 32x32_236
+  - first:
+      213: -5108832866055969264
+    second: Green Effect Bullet Impact Explosion 32x32_237
+  - first:
+      213: -6399566075283950898
+    second: Green Effect Bullet Impact Explosion 32x32_238
+  - first:
+      213: -1946814485995724387
+    second: Green Effect Bullet Impact Explosion 32x32_239
+  - first:
+      213: 8219640616671287085
+    second: Green Effect Bullet Impact Explosion 32x32_240
+  - first:
+      213: -4184527589827357208
+    second: Green Effect Bullet Impact Explosion 32x32_241
+  - first:
+      213: 4122587899752618876
+    second: Green Effect Bullet Impact Explosion 32x32_242
+  - first:
+      213: -381311625971616761
+    second: Green Effect Bullet Impact Explosion 32x32_243
+  - first:
+      213: 7452887695411392782
+    second: Green Effect Bullet Impact Explosion 32x32_244
+  - first:
+      213: 7365179234358900625
+    second: Green Effect Bullet Impact Explosion 32x32_245
+  - first:
+      213: 5196778140046267088
+    second: Green Effect Bullet Impact Explosion 32x32_246
+  - first:
+      213: -7692221112157652656
+    second: Green Effect Bullet Impact Explosion 32x32_247
+  - first:
+      213: 5513274509828769612
+    second: Green Effect Bullet Impact Explosion 32x32_248
+  - first:
+      213: -6124806105349132234
+    second: Green Effect Bullet Impact Explosion 32x32_249
+  - first:
+      213: -6759525449453774687
+    second: Green Effect Bullet Impact Explosion 32x32_250
+  - first:
+      213: -8071319971485612818
+    second: Green Effect Bullet Impact Explosion 32x32_251
+  - first:
+      213: 2483642788541292820
+    second: Green Effect Bullet Impact Explosion 32x32_252
+  - first:
+      213: -212773130972783713
+    second: Green Effect Bullet Impact Explosion 32x32_253
+  - first:
+      213: -746668838679921985
+    second: Green Effect Bullet Impact Explosion 32x32_254
+  - first:
+      213: 6886029681550430683
+    second: Green Effect Bullet Impact Explosion 32x32_255
+  - first:
+      213: -6787728004105273473
+    second: Green Effect Bullet Impact Explosion 32x32_256
+  - first:
+      213: -6550302854594773464
+    second: Green Effect Bullet Impact Explosion 32x32_257
+  - first:
+      213: 7066767060900859624
+    second: Green Effect Bullet Impact Explosion 32x32_258
+  - first:
+      213: 8876957612613433230
+    second: Green Effect Bullet Impact Explosion 32x32_259
+  - first:
+      213: 5847435607087340529
+    second: Green Effect Bullet Impact Explosion 32x32_260
+  - first:
+      213: -2519280585793803291
+    second: Green Effect Bullet Impact Explosion 32x32_261
+  - first:
+      213: 1284660927968085234
+    second: Green Effect Bullet Impact Explosion 32x32_262
+  - first:
+      213: 5062183520882305277
+    second: Green Effect Bullet Impact Explosion 32x32_263
+  - first:
+      213: -3181798183786667387
+    second: Green Effect Bullet Impact Explosion 32x32_264
+  - first:
+      213: -1009136379208496780
+    second: Green Effect Bullet Impact Explosion 32x32_265
+  - first:
+      213: 402701562631298554
+    second: Green Effect Bullet Impact Explosion 32x32_266
+  - first:
+      213: 206973378738114096
+    second: Green Effect Bullet Impact Explosion 32x32_267
+  - first:
+      213: -4655810768005766812
+    second: Green Effect Bullet Impact Explosion 32x32_268
+  - first:
+      213: -7960399241413203801
+    second: Green Effect Bullet Impact Explosion 32x32_269
+  - first:
+      213: -6748251174229027058
+    second: Green Effect Bullet Impact Explosion 32x32_270
+  - first:
+      213: -5213186420740912313
+    second: Green Effect Bullet Impact Explosion 32x32_271
+  - first:
+      213: -8473274006677491035
+    second: Green Effect Bullet Impact Explosion 32x32_272
+  - first:
+      213: -8983576387386457142
+    second: Green Effect Bullet Impact Explosion 32x32_273
+  - first:
+      213: -7531620088627730008
+    second: Green Effect Bullet Impact Explosion 32x32_274
+  - first:
+      213: 6571548240888989292
+    second: Green Effect Bullet Impact Explosion 32x32_275
+  - first:
+      213: 7786699011692723473
+    second: Green Effect Bullet Impact Explosion 32x32_276
+  - first:
+      213: -5837935933436336413
+    second: Green Effect Bullet Impact Explosion 32x32_277
+  - first:
+      213: 5708268279105249403
+    second: Green Effect Bullet Impact Explosion 32x32_278
+  - first:
+      213: 8307855204202951812
+    second: Green Effect Bullet Impact Explosion 32x32_279
+  - first:
+      213: 5426435899204673653
+    second: Green Effect Bullet Impact Explosion 32x32_280
+  - first:
+      213: -941901085190370212
+    second: Green Effect Bullet Impact Explosion 32x32_281
+  - first:
+      213: -768944454387268483
+    second: Green Effect Bullet Impact Explosion 32x32_282
+  - first:
+      213: 7582964664246268800
+    second: Green Effect Bullet Impact Explosion 32x32_283
+  - first:
+      213: 7009484664981160484
+    second: Green Effect Bullet Impact Explosion 32x32_284
+  - first:
+      213: -4383890893462936555
+    second: Green Effect Bullet Impact Explosion 32x32_285
+  - first:
+      213: -3774371456502882911
+    second: Green Effect Bullet Impact Explosion 32x32_286
+  - first:
+      213: 5879950294103337611
+    second: Green Effect Bullet Impact Explosion 32x32_287
+  - first:
+      213: 4600523557742507951
+    second: Green Effect Bullet Impact Explosion 32x32_288
+  - first:
+      213: 4251841455494050887
+    second: Green Effect Bullet Impact Explosion 32x32_289
+  - first:
+      213: -3640314942608643160
+    second: Green Effect Bullet Impact Explosion 32x32_290
+  - first:
+      213: 7364456944717224282
+    second: Green Effect Bullet Impact Explosion 32x32_291
+  - first:
+      213: 8562351136570385396
+    second: Green Effect Bullet Impact Explosion 32x32_292
+  - first:
+      213: 3056717965601963073
+    second: Green Effect Bullet Impact Explosion 32x32_293
+  - first:
+      213: -3928083783809345272
+    second: Green Effect Bullet Impact Explosion 32x32_294
+  - first:
+      213: -2771708937182761875
+    second: Green Effect Bullet Impact Explosion 32x32_295
+  - first:
+      213: -3177718158921938248
+    second: Green Effect Bullet Impact Explosion 32x32_296
+  - first:
+      213: 3629051286060848080
+    second: Green Effect Bullet Impact Explosion 32x32_297
+  - first:
+      213: 8772998096569822102
+    second: Green Effect Bullet Impact Explosion 32x32_298
+  - first:
+      213: 2207849447435203256
+    second: Green Effect Bullet Impact Explosion 32x32_299
+  - first:
+      213: -4263001137159522776
+    second: Green Effect Bullet Impact Explosion 32x32_300
+  - first:
+      213: -5422074269681886244
+    second: Green Effect Bullet Impact Explosion 32x32_301
+  - first:
+      213: 183967062720721835
+    second: Green Effect Bullet Impact Explosion 32x32_302
+  - first:
+      213: 9217874667683288237
+    second: Green Effect Bullet Impact Explosion 32x32_303
+  - first:
+      213: -6866517135866465535
+    second: Green Effect Bullet Impact Explosion 32x32_304
+  - first:
+      213: -6483105543999329149
+    second: Green Effect Bullet Impact Explosion 32x32_305
+  - first:
+      213: -898148884481129200
+    second: Green Effect Bullet Impact Explosion 32x32_306
+  - first:
+      213: 1774204038296725216
+    second: Green Effect Bullet Impact Explosion 32x32_307
+  - first:
+      213: 6126219168485423741
+    second: Green Effect Bullet Impact Explosion 32x32_308
+  - first:
+      213: 8904968074715236506
+    second: Green Effect Bullet Impact Explosion 32x32_309
+  - first:
+      213: 3138787297016645101
+    second: Green Effect Bullet Impact Explosion 32x32_310
+  - first:
+      213: 1745841230230350299
+    second: Green Effect Bullet Impact Explosion 32x32_311
+  - first:
+      213: -6830984991965045284
+    second: Green Effect Bullet Impact Explosion 32x32_312
+  - first:
+      213: 8655402438900056516
+    second: Green Effect Bullet Impact Explosion 32x32_313
+  - first:
+      213: 1361827552221918323
+    second: Green Effect Bullet Impact Explosion 32x32_314
+  - first:
+      213: -3564877700818864423
+    second: Green Effect Bullet Impact Explosion 32x32_315
+  - first:
+      213: 4427716438946982421
+    second: Green Effect Bullet Impact Explosion 32x32_316
+  - first:
+      213: 7802299022016328442
+    second: Green Effect Bullet Impact Explosion 32x32_317
+  - first:
+      213: 4035278208200663742
+    second: Green Effect Bullet Impact Explosion 32x32_318
+  - first:
+      213: 8623855198436338154
+    second: Green Effect Bullet Impact Explosion 32x32_319
+  - first:
+      213: 8421550843887885288
+    second: Green Effect Bullet Impact Explosion 32x32_320
+  - first:
+      213: -5997800015639242116
+    second: Green Effect Bullet Impact Explosion 32x32_321
+  - first:
+      213: 4723529823295159429
+    second: Green Effect Bullet Impact Explosion 32x32_322
+  - first:
+      213: -4891218329268210586
+    second: Green Effect Bullet Impact Explosion 32x32_323
+  - first:
+      213: -6997051238055788098
+    second: Green Effect Bullet Impact Explosion 32x32_324
+  - first:
+      213: 8306452777557280850
+    second: Green Effect Bullet Impact Explosion 32x32_325
+  - first:
+      213: -5683130142022236256
+    second: Green Effect Bullet Impact Explosion 32x32_326
+  - first:
+      213: -4773067278568889019
+    second: Green Effect Bullet Impact Explosion 32x32_327
+  - first:
+      213: 2737331051498744740
+    second: Green Effect Bullet Impact Explosion 32x32_328
+  - first:
+      213: 981619195080199088
+    second: Green Effect Bullet Impact Explosion 32x32_329
+  - first:
+      213: 7412621135787718593
+    second: Green Effect Bullet Impact Explosion 32x32_330
+  - first:
+      213: -4222207635804092114
+    second: Green Effect Bullet Impact Explosion 32x32_331
+  - first:
+      213: 3235414339773356239
+    second: Green Effect Bullet Impact Explosion 32x32_332
+  - first:
+      213: -5566242020241806618
+    second: Green Effect Bullet Impact Explosion 32x32_333
+  - first:
+      213: 3858283641250885410
+    second: Green Effect Bullet Impact Explosion 32x32_334
+  - first:
+      213: 2066362282335347105
+    second: Green Effect Bullet Impact Explosion 32x32_335
+  - first:
+      213: 1616140842537082356
+    second: Green Effect Bullet Impact Explosion 32x32_336
+  - first:
+      213: -5948242272369990779
+    second: Green Effect Bullet Impact Explosion 32x32_337
+  - first:
+      213: 3774948719987689893
+    second: Green Effect Bullet Impact Explosion 32x32_338
+  - first:
+      213: -4622015804144161499
+    second: Green Effect Bullet Impact Explosion 32x32_339
+  - first:
+      213: 156255799989079556
+    second: Green Effect Bullet Impact Explosion 32x32_340
+  - first:
+      213: -7129434508649831366
+    second: Green Effect Bullet Impact Explosion 32x32_341
+  - first:
+      213: -2479011631079729844
+    second: Green Effect Bullet Impact Explosion 32x32_342
+  - first:
+      213: 6570656903674862901
+    second: Green Effect Bullet Impact Explosion 32x32_343
+  - first:
+      213: 5875045464838965176
+    second: Green Effect Bullet Impact Explosion 32x32_344
+  - first:
+      213: -9179101578312924734
+    second: Green Effect Bullet Impact Explosion 32x32_345
+  - first:
+      213: -3639927812712010247
+    second: Green Effect Bullet Impact Explosion 32x32_346
+  - first:
+      213: 5959783857030449370
+    second: Green Effect Bullet Impact Explosion 32x32_347
+  - first:
+      213: 8231956572814336789
+    second: Green Effect Bullet Impact Explosion 32x32_348
+  - first:
+      213: -1240164068444539184
+    second: Green Effect Bullet Impact Explosion 32x32_349
+  - first:
+      213: 3408725143438120260
+    second: Green Effect Bullet Impact Explosion 32x32_350
+  - first:
+      213: -7309175227243479973
+    second: Green Effect Bullet Impact Explosion 32x32_351
+  - first:
+      213: -2008717805969418632
+    second: Green Effect Bullet Impact Explosion 32x32_352
+  - first:
+      213: -2319895986445640100
+    second: Green Effect Bullet Impact Explosion 32x32_353
+  - first:
+      213: 7706207064057788828
+    second: Green Effect Bullet Impact Explosion 32x32_354
+  - first:
+      213: 4928295433533084923
+    second: Green Effect Bullet Impact Explosion 32x32_355
+  - first:
+      213: -7414393978480853452
+    second: Green Effect Bullet Impact Explosion 32x32_356
+  - first:
+      213: -6383053547818895098
+    second: Green Effect Bullet Impact Explosion 32x32_357
+  - first:
+      213: -1036223386921280307
+    second: Green Effect Bullet Impact Explosion 32x32_358
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 3
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 288
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab689bb04373a630800000000000000
+      internalID: 3937117221114375086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e384cca8f76164438455821018cb400
+      internalID: -6842410521649576554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 288
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88098d3543a56245861a7dc954d04d4
+      internalID: -3232142042035061481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 288
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20629632ca209499a9a24eea3027b9
+      internalID: -5169673698369588653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4e85f50b5ca455468efbacf18e63472
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green Effect Bullet Impact Explosion 32x32_0: 3937117221114375086
+      Green Effect Bullet Impact Explosion 32x32_3: -5169673698369588653
+      Green Effect Bullet Impact Explosion 32x32_2: -3232142042035061481
+      Green Effect Bullet Impact Explosion 32x32_1: -6842410521649576554
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

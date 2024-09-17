@@ -20,7 +20,6 @@ public class WASD : MonoBehaviour
     public Vector3 theScale;
     public UnityEvent m_MyEvent;
     public KeyCode shift = KeyCode.LeftShift;
-
     [System.Serializable]
     public class BoolEvent : UnityEvent<bool> { }
     private void FixedUpdate()
@@ -39,9 +38,7 @@ public class WASD : MonoBehaviour
                         m_MyEvent.Invoke();
                 }
             }
-
         }
-
         if (isDashing)
         {
             return;
